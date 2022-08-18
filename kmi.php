@@ -13,9 +13,6 @@
 </head>
 
 <body>
-    <a href="/pask-1/kmi.php">Atgal</a>
-
-
     <div class="container">
         <div class="row">
             <div class="col-md-12">
