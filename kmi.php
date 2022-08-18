@@ -17,7 +17,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="card mt-5">
-                    <div class="card-header">Kūno masės indekso skaičiuoklė (KMI)</div>
+                    <div class="card-header"><h1>Kūno masės indekso skaičiuoklė (KMI)</h1></div>
                     <div class="card-body">
                         <form action="kmi-out.php" method="post">
                             <div class="mb-3">
